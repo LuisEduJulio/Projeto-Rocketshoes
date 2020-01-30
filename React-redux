@@ -1,0 +1,12 @@
+abra o termina
+
+mkdir nome_do_projeto
+npx create-react-app nome_do_projeto
+yarn add redux
+yarn add react-redux
+yarn add react-router-dom
+npm install -g json-server
+yarn add reactotron
+yarn add axios
+yarn add styled-components
+yarn add react-icons

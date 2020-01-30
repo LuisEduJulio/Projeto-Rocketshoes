@@ -1,0 +1,93 @@
+[2019-12-12 19:11:02.117] [exthost] [info] extension host started
+[2019-12-12 19:11:02.262] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch {"startup":true,"activationEvent":"*"}
+[2019-12-12 19:11:02.262] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/debug-auto-launch/dist/extension
+[2019-12-12 19:11:02.580] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet {"startup":true,"activationEvent":"*"}
+[2019-12-12 19:11:02.581] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/emmet/dist/extension
+[2019-12-12 19:11:02.814] [exthost] [info] ExtensionService#_doActivateExtension vscode.git {"startup":true,"activationEvent":"*"}
+[2019-12-12 19:11:02.814] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/git/dist/main
+[2019-12-12 19:11:03.125] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict {"startup":true,"activationEvent":"*"}
+[2019-12-12 19:11:03.125] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/merge-conflict/dist/extension
+[2019-12-12 19:11:03.220] [exthost] [info] ExtensionService#_doActivateExtension dbaeumer.vscode-eslint {"startup":true,"activationEvent":"*"}
+[2019-12-12 19:11:03.221] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/luis/.vscode/extensions/dbaeumer.vscode-eslint-1.9.1/client/out/extension
+[2019-12-12 19:11:03.393] [exthost] [info] ExtensionService#_doActivateExtension vscode-icons-team.vscode-icons {"startup":true,"activationEvent":"*"}
+[2019-12-12 19:11:03.393] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/luis/.vscode/extensions/vscode-icons-team.vscode-icons-9.6.0/dist/src/vscode-icons.bundle.js
+[2019-12-12 19:11:03.710] [exthost] [info] eager extensions activated
+[2019-12-12 19:11:29.648] [exthost] [info] extension host started
+[2019-12-12 19:11:29.666] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch {"startup":true,"activationEvent":"*"}
+[2019-12-12 19:11:29.666] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/debug-auto-launch/dist/extension
+[2019-12-12 19:11:29.671] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet {"startup":true,"activationEvent":"*"}
+[2019-12-12 19:11:29.671] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/emmet/dist/extension
+[2019-12-12 19:11:29.765] [exthost] [info] ExtensionService#_doActivateExtension vscode.git {"startup":true,"activationEvent":"*"}
+[2019-12-12 19:11:29.765] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/git/dist/main
+[2019-12-12 19:11:29.924] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict {"startup":true,"activationEvent":"*"}
+[2019-12-12 19:11:29.925] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/merge-conflict/dist/extension
+[2019-12-12 19:11:29.932] [exthost] [info] ExtensionService#_doActivateExtension dbaeumer.vscode-eslint {"startup":true,"activationEvent":"*"}
+[2019-12-12 19:11:29.933] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/luis/.vscode/extensions/dbaeumer.vscode-eslint-1.9.1/client/out/extension
+[2019-12-12 19:11:30.010] [exthost] [info] ExtensionService#_doActivateExtension vscode-icons-team.vscode-icons {"startup":true,"activationEvent":"*"}
+[2019-12-12 19:11:30.011] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/luis/.vscode/extensions/vscode-icons-team.vscode-icons-9.6.0/dist/src/vscode-icons.bundle.js
+[2019-12-12 19:11:30.416] [exthost] [info] ExtensionService#_doActivateExtension vscode.npm {"startup":true,"activationEvent":"workspaceContains:package.json"}
+[2019-12-12 19:11:30.416] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/npm/dist/main
+[2019-12-12 19:11:30.727] [exthost] [info] eager extensions activated
+[2019-12-12 19:11:37.191] [exthost] [info] ExtensionService#_doActivateExtension vscode.grunt {"startup":false,"activationEvent":"onCommand:workbench.action.tasks.runTask"}
+[2019-12-12 19:11:37.192] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/grunt/dist/main
+[2019-12-12 19:11:37.592] [exthost] [info] ExtensionService#_doActivateExtension vscode.gulp {"startup":false,"activationEvent":"onCommand:workbench.action.tasks.runTask"}
+[2019-12-12 19:11:37.592] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/gulp/dist/main
+[2019-12-12 19:11:37.804] [exthost] [info] ExtensionService#_doActivateExtension vscode.jake {"startup":false,"activationEvent":"onCommand:workbench.action.tasks.runTask"}
+[2019-12-12 19:11:37.804] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/jake/dist/main
+[2019-12-12 19:11:38.014] [exthost] [info] ExtensionService#_doActivateExtension vscode.typescript-language-features {"startup":false,"activationEvent":"onCommand:workbench.action.tasks.runTask"}
+[2019-12-12 19:11:38.014] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/typescript-language-features/dist/extension
+[2019-12-12 19:11:38.314] [exthost] [info] ExtensionService#_doActivateExtension vscode.configuration-editing {"startup":false,"activationEvent":"onLanguage:jsonc"}
+[2019-12-12 19:11:38.315] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/configuration-editing/dist/extension
+[2019-12-12 19:11:38.531] [exthost] [info] ExtensionService#_doActivateExtension vscode.json-language-features {"startup":false,"activationEvent":"onLanguage:jsonc"}
+[2019-12-12 19:11:38.531] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/json-language-features/client/dist/jsonMain
+[2019-12-12 19:14:56.217] [exthost] [info] ExtensionService#_doActivateExtension vscode.extension-editing {"startup":false,"activationEvent":"onLanguage:typescript"}
+[2019-12-12 19:14:56.217] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/extension-editing/dist/extension
+[2019-12-12 19:57:03.376] [exthost] [error] [vscode.typescript-language-features] provider FAILED
+[2019-12-12 19:57:03.382] [exthost] [error] Error: <semantic> TypeScript Server Error (3.6.2)
+Cannot read property 'parent' of undefined
+TypeError: Cannot read property 'parent' of undefined
+    at Object.deleteDeclaration (tsserver.js:115598:56)
+    at _loop_9 (tsserver.js:115190:47)
+    at ChangeTracker.finishDeleteDeclarations (tsserver.js:115197:21)
+    at ChangeTracker.getChanges (tsserver.js:115217:22)
+    at Function.ChangeTracker.with (tsserver.js:114754:32)
+    at Object.getCodeActions (tsserver.js:119748:68)
+    at tsserver.js:115774:121
+    at Object.flatMap (tsserver.js:583:25)
+    at Object.getFixes (tsserver.js:115774:23)
+    at tsserver.js:125788:35
+    at Object.flatMap (tsserver.js:583:25)
+    at Object.getCodeFixesAtPosition (tsserver.js:125786:23)
+    at Proxy.<anonymous> (/home/luis/.vscode/extensions/jpoissonnier.vscode-styled-components-0.0.27/node_modules/typescript-template-language-service-decorator/lib/template-language-service-decorator.js:144:20)
+    at IOSession.Session.getCodeFixes (tsserver.js:134985:64)
+    at Session.handlers.ts.createMapFromTemplate._a.(anonymous function) (tsserver.js:133772:61)
+    at tsserver.js:135178:88
+    at IOSession.Session.executeWithRequestId (tsserver.js:135169:28)
+    at IOSession.Session.executeCommand (tsserver.js:135178:33)
+    at IOSession.Session.onMessage (tsserver.js:135201:35)
+    at Interface.<anonymous> (tsserver.js:136516:27)
+    at Interface.emit (events.js:182:13)
+    at Interface._onLine (readline.js:290:10)
+    at Interface._normalWrite (readline.js:433:12)
+    at Socket.ondata (readline.js:149:10)
+    at Socket.emit (events.js:182:13)
+    at addChunk (_stream_readable.js:283:12)
+    at readableAddChunk (_stream_readable.js:264:11)
+    at Socket.Readable.push (_stream_readable.js:219:10)
+    at Pipe.onStreamRead [as onread] (internal/stream_base_commons.js:94:17)
+	at Function.create (/usr/share/code/resources/app/extensions/typescript-language-features/dist/extension.js:53:63463)
+	at h.dispatchResponse (/usr/share/code/resources/app/extensions/typescript-language-features/dist/extension.js:53:56618)
+	at h.dispatchMessage (/usr/share/code/resources/app/extensions/typescript-language-features/dist/extension.js:53:55516)
+	at constructor._reader.onData.e (/usr/share/code/resources/app/extensions/typescript-language-features/dist/extension.js:53:54992)
+	at u.fire (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:50:207)
+	at t.Reader.onLengthData (/usr/share/code/resources/app/extensions/typescript-language-features/dist/extension.js:53:61683)
+	at Socket.t.Reader.constructor.e.on.e (/usr/share/code/resources/app/extensions/typescript-language-features/dist/extension.js:53:61331)
+	at Socket.emit (events.js:182:13)
+	at addChunk (_stream_readable.js:283:12)
+	at readableAddChunk (_stream_readable.js:264:11)
+	at Socket.Readable.push (_stream_readable.js:219:10)
+	at Pipe.onStreamRead [as onread] (internal/stream_base_commons.js:94:17)
+[2019-12-12 21:31:33.661] [exthost] [error] [vscode.typescript-language-features] provider FAILED
+[2019-12-12 21:31:33.661] [exthost] [error] Error: DisposableStore is missing...
+	at R._convertCompletionItem (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:559:660)
+	at define.resolveCompletionItem.o.asPromise.then.e (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:559:290)
