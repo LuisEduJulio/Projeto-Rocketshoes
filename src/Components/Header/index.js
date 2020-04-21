@@ -1,14 +1,15 @@
 import React from 'react';
-import {Link} from 'react-router-dom';
-import {connect} from 'react-redux';
-import {MdShoppingBasket} from 'react-icons/md';
+import { Link } from 'react-router-dom';
+import { useSelector } from 'react-redux';
+import { MdShoppingBasket } from 'react-icons/md';
 
 import { Container, Cart } from './styles';
 
 import logo from '../../Assets/images/logo.svg';
 
-function Header({cartSize}){
-    return(
+function Header() {
+    const cartSize = useSelector(state => state.cart.length)
+    return (
         <Container>
             <Link to="/">
                 <img src={logo} alt="Rocketshoes" />
@@ -23,6 +24,4 @@ function Header({cartSize}){
         </Container>
     );
 }
-export default connect(state =>({
-    cartSize: state.cart.length,
-}))(Header);
+export default Header;
